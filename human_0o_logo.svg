@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">HUMAN 0.o</title>
+  <desc id="desc">Minimal futuristic rounded geometric wordmark in black on an off-white background.</desc>
+  <rect width="1600" height="500" fill="#fbfaf8"/>
+  <g fill="none" stroke="#080808" stroke-width="23" stroke-linecap="round" stroke-linejoin="round">
+    <!-- H: balanced vertical stems and centered crossbar -->
+    <path d="M220 190 V290 M320 190 V290 M220 240 H320"/>
+    <!-- U -->
+    <path d="M365 190 V245 C365 273 382 290 410 290 C438 290 455 273 455 245 V190"/>
+    <!-- M: continuous rounded arches -->
+    <path d="M500 290 V225 C500 204 513 190 534 190 C555 190 568 204 568 225 V290 M568 225 C568 204 581 190 602 190 C623 190 636 204 636 225 V290"/>
+    <!-- A: rounded arch with a crossbar -->
+    <path d="M682 290 V231 C682 207 699 190 723 190 C747 190 764 207 764 231 V290 M692 250 H754"/>
+    <!-- N -->
+    <path d="M810 290 V190 L900 290 V190"/>
+    <!-- 0: rounded geometric zero -->
+    <path d="M1000 240 C1000 209 1018 190 1048 190 C1078 190 1096 209 1096 240 C1096 271 1078 290 1048 290 C1018 290 1000 271 1000 240 Z"/>
+    <!-- lowercase o, optically matched to the zero -->
+    <path d="M1160 252 C1160 231 1175 218 1196 218 C1217 218 1232 231 1232 252 C1232 273 1217 286 1196 286 C1175 286 1160 273 1160 252 Z"/>
+  </g>
+  <!-- Dot between 0 and o, scaled to harmonize with the stroke weight -->
+  <circle cx="1128" cy="282" r="11.5" fill="#080808"/>
+</svg>

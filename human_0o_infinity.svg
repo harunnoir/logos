@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">HUMAN 0.o — connected infinity wordmark</title>
+  <desc id="desc">A rounded geometric HUMAN wordmark followed by a connected infinity symbol whose two loops evoke 0.o and human connection.</desc>
+  <rect width="1600" height="480" fill="#fbfaf8"/>
+  <g fill="none" stroke="#080808" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <!-- HUMAN: custom rounded monoline lettering -->
+    <path d="M180 176 V282 M260 176 V282 M180 229 H260"/>
+    <path d="M302 176 V238 C302 266 318 282 345 282 C372 282 388 266 388 238 V176"/>
+    <path d="M430 282 V213 C430 190 443 176 464 176 C485 176 498 190 498 213 V282 M498 213 C498 190 511 176 532 176 C553 176 566 190 566 213 V282"/>
+    <path d="M608 282 V222 C608 195 626 176 651 176 C676 176 694 195 694 222 V282 M618 244 H684"/>
+    <path d="M736 282 V176 L824 282 V176"/>
+  </g>
+  <!-- Connected 0.o / infinity mark: two readable loops joined in one continuous path -->
+  <path d="M900 230
+           C900 188 927 160 965 160
+           C1002 160 1030 190 1064 230
+           C1096 270 1124 300 1162 300
+           C1200 300 1228 272 1228 230
+           C1228 188 1200 160 1162 160
+           C1124 160 1096 190 1064 230
+           C1030 270 1002 300 965 300
+           C927 300 900 272 900 230 Z"
+        fill="none" stroke="#080808" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small dot keeps the punctuation of 0.o visible while echoing a point of connection -->
+  <circle cx="1064" cy="309" r="9" fill="#080808"/>
+</svg>
